@@ -1,9 +1,9 @@
 # SQL-Advanced-queries-Exercises
 
--- 1) How many customers do we have?
+-- 1) How many customers do we have? Making this sentence longer for layout purposes on Github
 ![Exercise1](images/Exercise1.JPG)
 
--- 2) What is the customer number of Mary Young?
+-- 2) What is the customer number of Mary Young? Making this sentence longer for layout purposes on Github
 ![Exercise2](images/Exercise2.JPG)
 
 -- 3) What is the customer number of the person living at Magazinweg 7, Frankfurt 60528?
@@ -32,3 +32,6 @@
 
 -- 11 How many customers do we have with the following conditions (only 1 query needed):  - Living in the state Nevada or New York OR - Living outside the USA and with a credit limit above 1000 dollar?
 ![Exercise11](images/Exercise11.JPG)
+
+-- 12) How many customers don't have an assigned sales representative?
+![Exercise12](images/Exercise12.JPG)
