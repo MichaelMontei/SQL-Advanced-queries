@@ -33,4 +33,23 @@ With the knowledge you will gain here, you will be able to answer all questions 
 		- The SELECT DISTINCT clausule removes duplicate rows when querying data from a table.
 	![SQL SELECTDISTINCT](images/SELECTDISTINCT.JPG)
 
+	- [X] [AND – introduce you to the AND operator to combine Boolean expressions to form a complex condition for filtering data.](https://www.mysqltutorial.org/mysql-and/)
+		- MySQL doesn’t have a built-in Boolean type. Instead, it uses the number zero as FALSE and non-zero values as TRUE.
+	![SQL AND](images/AND.JPG)
+
+	- [X] [OR– introduce you to the OR operator and show you how to combine the OR operator with the AND operator to filter data.](https://www.mysqltutorial.org/mysql-or/)
+		- The MySQL OR operator is a logical operator that combines two Boolean expressions.
+	![SQL OR](images/OR.JPG)
+
+	- [X] [IN – show you how to use the IN operator in the WHERE clause to determine if a value matches any value in a list or a subquery.](https://www.mysqltutorial.org/mysql-basics/mysql-in/)
+		- The IN operator allows you to determine if a value matches any value in a list of values.
+	![SQL IN](images/IN.JPG)
+
+	- [X] [BETWEEN – show you how to query data based on a range using BETWEEN operator.](https://www.mysqltutorial.org/mysql-between)
+		- The BETWEEN operator is a logical operator that specifies whether a value is in a range or not.
+	![SQL BETWEEN](images/BETWEEN.JPG)
+	
+	- [X] LIKE – provide you with technique to query data based on a specific pattern.
+		- The LIKE operator is a logical operator that tests whether a string contains a specified pattern or not.
+	![SQL LIKE](images/LIKE.JPG)
 
