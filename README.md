@@ -1,6 +1,6 @@
 # SQL-Advanced-queries
 
-![SQL](sqlserver.png)
+![SQL](SQL.jpg)
 
 ## Learning objectives
 - Able to look up information about sql on the web
