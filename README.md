@@ -1,5 +1,7 @@
 # SQL-Advanced-queries
 
+![SQL](sqlserver.png)
+
 ## Learning objectives
 - Able to look up information about sql on the web
 - Able to query a complicated database schema and answer data questions
