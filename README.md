@@ -25,6 +25,12 @@ With the knowledge you will gain here, you will be able to answer all questions 
 	![SQL ORDERBY](ORDERBY.JPG)
 
 3. Filtering data
-	- [WHERE – learn how to use the WHERE clause to filter rows based on specified conditions.](https://www.mysqltutorial.org/mysql-where/)
+	- [X] [WHERE – learn how to use the WHERE clause to filter rows based on specified conditions.](https://www.mysqltutorial.org/mysql-where/)
 		- The WHERE clausule allows you to specify a search condition for the rows returned by a query. 
 	![SQL WHERE](WHERE.JPG)
+
+	- [X] [SELECT DISTINCT – show you how to use the DISTINCT operator in the SELECT statement to eliminate duplicate rows in a result set.](https://www.mysqltutorial.org/mysql-distinct.aspx)
+		- The SELECT DISTINCT clausule removes duplicate rows when querying data from a table.
+	![SQL SELECTDISTINCT](SELECTDISTINCT.JPG)
+
+
