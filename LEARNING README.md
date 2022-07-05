@@ -33,15 +33,4 @@ With the knowledge you will gain here, you will be able to answer all questions 
 		- The SELECT DISTINCT clausule removes duplicate rows when querying data from a table.
 	![SQL SELECTDISTINCT](images/SELECTDISTINCT.JPG)
 
-	- [X] [AND – introduce you to the AND operator to combine Boolean expressions to form a complex condition for filtering data.](https://www.mysqltutorial.org/mysql-and/)
-		- MySQL doesn’t have a built-in Boolean type. Instead, it uses the number zero as FALSE and non-zero values as TRUE.
-	![SQL AND](images/AND.JPG)
-
-	- [X] [OR– introduce you to the OR operator and show you how to combine the OR operator with the AND operator to filter data.](https://www.mysqltutorial.org/mysql-or/)
-		- The MySQL OR operator is a logical operator that combines two Boolean expressions.
-	![SQL OR](images/OR.JPG)
-
-
-
-
 
