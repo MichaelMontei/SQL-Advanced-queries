@@ -13,6 +13,16 @@ This is a selection of all interesting and common used ways of reading data out 
 With the knowledge you will gain here, you will be able to answer all questions below!
 
 1. Querying data
-    - [SELECT – show you how to use simple SELECT statement to query the data from a single table.](https://www.mysqltutorial.org/mysql-select-statement-query-data.aspx)
-	- First Specify one or more columns from wich you want to select data after the SELECT keyword.
+   	- [SELECT – show you how to use simple SELECT statement to query the data from a single table.](https://www.mysqltutorial.org/mysql-select-statement-query-data.aspx)
+		- First Specify one or more columns from wich you want to select data after the SELECT keyword.
 	![SQL SELECT](SELECT.JPG)
+
+2. Sorting data
+	- [ORDER BY – show you how to sort the result set using ORDER BY clause. The custom sort order with the FIELD function will be also covered.](https://www.mysqltutorial.org/mysql-order-by/)
+		- After SELECTING data from the table/columns you can then ORDER BY ascending or descending or for instance by contactLastname.
+	![SQL ORDERBY](ORDERBY.JPG)
+
+3. Filtering data
+	- [WHERE – learn how to use the WHERE clause to filter rows based on specified conditions.](https://www.mysqltutorial.org/mysql-where/)
+		- The WHERE clausule allows you to specify a search condition for the rows returned by a query. 
+	![SQL WHERE](WHERE.JPG)
